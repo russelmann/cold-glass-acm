@@ -1,0 +1,6 @@
+[submodule "cgb_sim_reader/extern/cereal"]
+	path = cgb_sim_reader/extern/cereal
+	url = https://github.com/USCiLab/cereal.git
+[submodule "cgb_sim_reader/extern/eigen"]
+	path = cgb_sim_reader/extern/eigen
+	url = https://github.com/eigenteam/eigen-git-mirror.git

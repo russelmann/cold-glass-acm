@@ -1,0 +1,5 @@
+cgb_sim_reader/build/
+data/
+cgb_model/.idea/
+cgb_model/__pycache__/
+cgb_model/envs/
