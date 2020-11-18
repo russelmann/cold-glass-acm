@@ -1,6 +1,6 @@
 # Computational Design of Cold Bent Glass Façades
 
-Code and data for research paper K. Gavriil\*, R. Guseinov\*, J. Pérez, D. Pellis, P. Henderson, F. Rist, H. Pottmann, and B. Bickel. Computational Design of Cold Bent Glass Façades. *ACM Trans. Graph.* (2020).
+Code and data for research paper K. Gavriil\*, R. Guseinov\*, J. Pérez, D. Pellis, P. Henderson, F. Rist, H. Pottmann, and B. Bickel. [Computational Design of Cold Bent Glass Façades](http://visualcomputing.ist.ac.at/publications/2020/CDoCBGF/). *ACM Trans. Graph.* (2020).
 
 \* _Joint first authors_
 
