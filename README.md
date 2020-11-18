@@ -19,10 +19,10 @@ Cold bent glass is a promising and cost-efficient method for realizing doubly cu
 ## Instructions
 
 1. Clone or download code to local folder ``cold-glass-acm``.
-1. Download data from IST Research Explorer (TODO: link):
-   * For DNN usage download file **mdn_model.tar.gz**.
-   * For DNN training download file **optimal_panels_data.tar.gz**.
-   * To get original simulation data download file **sim_data.tar.gz**.
+1. Download data:
+   * For DNN usage download file **mdn_model.tar.gz** (TODO: IST Research Explorer link).
+   * For DNN training download file **optimal_panels_data.tar.gz** (TODO: IST Research Explorer link).
+   * To get original simulation data download file **sim_data.tar.gz** (TODO: link).
 1. Unpack downloaded archives in folder ``cold-glass-acm/data``
 
 ### cgb_model
